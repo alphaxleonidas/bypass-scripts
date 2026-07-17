@@ -6,7 +6,7 @@
 // @description     Control webpage timer speed | Speed ​​up skipping timed ads | Fast forward (slow down) videos | Skip ads | Supports almost all webpages.
 // @description:en  it can hook the timer speed to change.
 // @include         *
-// @require         https://github.com/alphaxleonidas/backup-scripts/raw/refs/heads/main/Everything-Hook.user.js
+// @require         https://github.com/alphaxleonidas/bypass-scripts/raw/refs/heads/main/Everything-Hook.user.js
 // @author          Leonidas
 // @match           http://*/*
 // @run-at          document-start
