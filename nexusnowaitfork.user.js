@@ -16,8 +16,6 @@
 // @grant        GM_xmlhttpRequest
 // @grant        GM_info
 // @connect      nexusmods.com
-// @downloadURL  https://raw.githubusercontent.com/alphaxleonidas/bypass-scripts/main/nexusnowaitfork.user.js
-// @updateURL    https://raw.githubusercontent.com/alphaxleonidas/bypass-scripts/main/nexusnowaitfork.user.js
 // ==/UserScript==
 
 
